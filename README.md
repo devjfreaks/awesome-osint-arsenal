@@ -517,8 +517,10 @@ pip install phoneinfoga
 | **urlscan.io** | URL/domain analysis & screenshots | [urlscan.io](https://urlscan.io/) |
 | **AbuseIPDB** | IP address reputation database | [abuseipdb.com](https://www.abuseipdb.com/) |
 | **Web-Check** | All-in-one website analysis | [web-check.xyz](https://web-check.xyz/) |
+| **IPGeolocation.io** | IP geolocation, VPN/proxy detection, ASN, abuse contact and timezone APIs | [ipgeolocation.io](https://ipgeolocation.io/) |
 | **IPinfo** | IP address data & geolocation | [ipinfo.io](https://ipinfo.io/) |
 | **DB-IP** | IP geolocation database | [db-ip.com](https://db-ip.com/) |
+
 
 <details>
 <summary><b>💻 Amass + Subfinder + HTTPx — Most effective recon combo</b></summary>
@@ -1168,6 +1170,7 @@ bash zphisher.sh
 | **IPLogger** | IP logging URL shortener | [iplogger.org](https://iplogger.org/) |
 | **Canary Tokens** | Tracking tokens (URL, email, DNS, files) | [canarytokens.org](https://canarytokens.org/) |
 | **GetNotify** | Email open tracking + geolocation | [getnotify.com](https://getnotify.com/) |
+| **IPGeolocation.io** | IP geolocation API with VPN/proxy detection, ASN and abuse contacts | [ipgeolocation.io](https://ipgeolocation.io/) |
 | **IPinfo** | IP address data API | [ipinfo.io](https://ipinfo.io/) |
 | **IP-API** | IP geolocation API | [ip-api.com](http://ip-api.com/) |
 | **MaxMind GeoIP** | IP geolocation database | [maxmind.com](https://maxmind.com/) |
@@ -1447,6 +1450,7 @@ python3 cupp.py -i
 | **VirusTotal API** | File/URL analysis | [developers.virustotal.com](https://developers.virustotal.com/) |
 | **Hunter.io API** | Email discovery | [hunter.io/api](https://hunter.io/api) |
 | **Have I Been Pwned API** | Breach check | [haveibeenpwned.com/API](https://haveibeenpwned.com/API) |
+| **IPGeolocation.io API** | IP geolocation, VPN/proxy detection, ASN, abuse contact and timezone APIs with downloadable databases | [ipgeolocation.io/documentation.html](https://ipgeolocation.io/documentation.html) |
 | **IPinfo API** | IP geolocation | [ipinfo.io/developers](https://ipinfo.io/developers) |
 | **Censys API** | Internet scanning | [search.censys.io/api](https://search.censys.io/api) |
 | **GitHub API** | Repository/user data | [api.github.com](https://api.github.com/) |
